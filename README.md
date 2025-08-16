@@ -2,12 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Guilherme Azevedo Mello
+Matricula: 1578358
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![imagem do trabalho](https://github.com/user-attachments/assets/990f0f50-8988-4ade-90ba-5300bb69bd2e)
+
 
 ## Tela de projeto no Replit
 
